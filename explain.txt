@@ -1,0 +1,33 @@
+文件说明
+
+src/page -- 主要页面
+src/page/detail.vue -- 立即购买详情页detail左侧导航
+src/page/index.vue -- 首页结构样式
+src/page/detail/count.vue -- 详情页左侧导航（数据统计）
+src/page/detail/forecast.vue -- 详情页左侧导航（数据预测）
+src/page/detail/analysis.vue -- 详情页左侧导航（数据分析）
+src/page/detail/publish.vue -- 详情页左侧导航（数据发布）
+
+src/components -- 组件
+src/components/layout.vue -- 首页top && footer组件 中间包含主页内容部分，相当于App.vue
+src/components/logForm.vue -- 首页top登陆内容组件
+src/components/regForm.vue -- 首页top注册内容组件
+src/components/alideShow.vue -- 首页轮播图组件
+src/components/bankChooser.vue -- 详情页立即购买选择银行组件
+
+src/components/base -- 其他小组件
+src/components/base/chooser.vue -- 按钮单选
+src/components/base/counter.vue -- 计数
+src/components/base/multiplyChooser.vue -- 按钮多选
+src/components/base/dialog.vue -- 全局模态框
+src/components/base/selection.vue -- select下拉框
+src/components/base/checkOrder.vue -- 确认购买商品后的状态
+
+
+src/router/index.js -- 配置路由
+
+src/main.js -- 公共配置
+
+src/assets -- 图片
+
+static/db.json -- 临时数据

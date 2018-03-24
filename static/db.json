@@ -1,0 +1,122 @@
+{
+  "getNewsList": [{
+    "id": 1,
+    "title": "三星猎户座Exynos 9610处理器详细参数规格介绍",
+    "url": "http://www.mnw.cn/news/digi/1962742.html"
+  }, {
+    "id": 2,
+    "title": "华为进军美国很不顺利 百思买或在几周内停止销售其产品",
+
+    "url": "http://www.mnw.cn/news/digi/1962338.html"
+  }, {
+    "id": 3,
+    "title": "OPPO F7国内什么时候发布 配置2500万前置像素",
+    "url": "http://www.mnw.cn/news/digi/1962340.html"
+  }, {
+    "id": 4,
+    "title": "LG V30+ JOJO限量版多少钱 仅10000套 明天开始预定",
+    "url": "http://www.mnw.cn/news/digi/1962470.html"
+  }, {
+    "id": 5,
+    "title": "华为进军美国很不顺利 百思买或在几周内停止销售其产品",
+
+    "url": "http://www.mnw.cn/news/digi/1962338.html"
+  }, {
+    "id": 6,
+    "title": "OPPO F7国内什么时候发布 配置2500万前置像素",
+    "url": "http://www.mnw.cn/news/digi/1962340.html"
+  }, {
+    "id": 7,
+    "title": "LG V30+ JOJO限量版多少钱 仅10000套 明天开始预定",
+    "url": "http://www.mnw.cn/news/digi/1962470.html"
+  }, {
+    "id": 8,
+    "title": "三星猎户座Exynos 9610处理器详细参数规格介绍",
+    "url": "http://www.mnw.cn/news/digi/1962742.html"
+  }, {
+    "id": 9,
+    "title": "华为进军美国很不顺利 百思买或在几周内停止销售其产品",
+
+    "url": "http://www.mnw.cn/news/digi/1962338.html"
+  }, {
+    "id": 10,
+    "title": "OPPO F7国内什么时候发布 配置2500万前置像素",
+    "url": "http://www.mnw.cn/news/digi/1962340.html"
+  }, {
+    "id": 11,
+    "title": "LG V30+ JOJO限量版多少钱 仅10000套 明天开始预定",
+    "url": "http://www.mnw.cn/news/digi/1962470.html"
+  }, {
+    "id": 12,
+    "title": "华为进军美国很不顺利 百思买或在几周内停止销售其产品",
+    "url": "http://www.mnw.cn/news/digi/1962338.html"
+  }, {
+    "id": 13,
+    "title": "OPPO F7国内什么时候发布 配置2500万前置像素",
+    "url": "http://www.mnw.cn/news/digi/1962340.html"
+  }, {
+    "id": 14,
+    "title": "LG V30+ JOJO限量版多少钱 仅10000套 明天开始预定",
+    "url": "http://www.mnw.cn/news/digi/1962470.html"
+  }, {
+    "id": 15,
+    "title": "华为进军美国很不顺利 百思买或在几周内停止销售其产品",
+    "url": "http://www.mnw.cn/news/digi/1962338.html"
+  }, {
+    "id": 16,
+    "title": "OPPO F7国内什么时候发布 配置2500万前置像素",
+    "url": "http://www.mnw.cn/news/digi/1962340.html"
+  }, {
+    "id": 17,
+    "title": "LG V30+ JOJO限量版多少钱 仅10000套 明天开始预定",
+    "url": "http://www.mnw.cn/news/digi/1962470.html"
+  }],
+
+
+
+  "login": {
+    "username": "kexiaoli",
+    "userid": "123321"
+  },
+  "getPrice": {
+    "amount": 300
+  },
+  "createOrder": {
+    "orderId": "2wdee"
+  },
+  "getOrderList": {
+    "list": [{
+      "orderId": "ddj123",
+      "product": "数据统计",
+      "version": "高级版",
+      "period": "1年",
+      "buyNum": 2,
+      "date": "2016-10-10",
+      "amount": "500元"
+    }, {
+      "orderId": "yuj583",
+      "product": "流量分析",
+      "version": "户外版",
+      "period": "2年",
+      "buyNum": 1,
+      "date": "2016-5-2",
+      "amount": "2200元"
+    }, {
+      "orderId": "pmd201",
+      "product": "广告发布",
+      "version": "商铺版",
+      "period": "3年",
+      "buyNum": 12,
+      "date": "2016-8-3",
+      "amount": "7890元"
+    }, {
+      "orderId": "pmd201",
+      "product": "广告发布",
+      "version": "商铺版",
+      "period": "5年",
+      "buyNum": 12,
+      "date": "2016-8-3",
+      "amount": "7890元"
+    }]
+  }
+}

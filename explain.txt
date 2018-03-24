@@ -1,5 +1,5 @@
-文件说明
-
+﻿文件说明
+1
 src/page -- 主要页面
 src/page/detail.vue -- 立即购买详情页detail左侧导航
 src/page/index.vue -- 首页结构样式
